@@ -1,0 +1,33 @@
+html, body {
+  font-family: "Inter", sans-serif;
+}
+
+container-time {
+    margin-bottom: 2rem;
+}
+.center-container {
+    display: flex;
+    justify-content: center;
+
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.container-current-time_value {
+    font-size: 24pt;
+    font-weight: bold;
+    margin-top: 1.5rem; ;
+}
+.container-current-time_label {
+    font-size: 16pt;
+    
+}
+
+.container{
+    display: black;
+    margin:auto;
+    width: 100%;
+    text-align: center;
+    justify-content: center;
+    align-content: center;
+}
